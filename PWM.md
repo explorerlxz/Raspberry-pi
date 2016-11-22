@@ -1,6 +1,6 @@
-# 
+# GPIO控制LED亮度，達到呼吸燈的效果
 
-```
+```Python
 #!/usr/bin/env python
 # encoding: utf-8
 
